@@ -26,10 +26,10 @@ Companies want to find the way to access their data from everywhere in a easy an
 ## Solution
 
 “Pro mujer” app is going to solve the accessibility of the information and this is going to help manager to make decision from their own data. In order to reach this target we need the next steps:
-1. ETL Process
+1. <details><summary>ETL Process</summary>
 - Production database (Extract data).
 - Staying database (Transform data).
-- Data warehousing (Load data).
+- Data warehousing (Load data).</details>
 2. Web service
 - Configure IIS
 - Implement Web API (CSharp)
