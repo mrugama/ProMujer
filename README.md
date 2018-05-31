@@ -1,4 +1,4 @@
-[![CC0](https://promujer.org/content/themes/storyware/resources/assets/build/svg/logo.svg)
+[CC0](https://promujer.org/content/themes/storyware/resources/assets/build/svg/logo.svg)
 
 ## Who we are?
 Pro Mujer was founded in 1990 in El Alto, Bolivia, by two visionary leaders, Lynne Patterson and Carmen Velasco, who believed that given the right opportunities, women can become powerful agents of change.
