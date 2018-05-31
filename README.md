@@ -28,3 +28,4 @@ Companies want to find the way to access their data from everywhere in a easy an
 ..* Production database (Extract data)
 ..* Staying database (Transform data)
 ..* Data warehousing (Load data)
+* Web service
