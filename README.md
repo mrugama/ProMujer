@@ -53,4 +53,4 @@ Companies want to find the way to access their data from everywhere in a easy an
 ## Demo App
 | Log In | Show offices |
 |:-------------:|:------------:|
-|  <img src="https://github.com/mrugama/ProWomen/blob/master/PMNLogIn.gif" width="358" height="626"> | <img src="https://github.com/mrugama/ProWomen/blob/master/PMNOficinas.gif" width="358" height="626"> |
+|  <img src="https://github.com/mrugama/ProWomen/blob/master/PMLogIn.gif" width="358" height="626"> | <img src="https://github.com/mrugama/ProWomen/blob/master/PMNOficinas.gif" width="358" height="626"> |
