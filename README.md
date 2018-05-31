@@ -28,7 +28,7 @@ Companies want to find the way to access their data from everywhere in a easy an
 `Pro mujer` app is going to solve the accessibility of the information and this is going to help manager to make decision from their own data. In order to reach this target we need the next steps:
 <details>
 <summary>ETL Process</summary>
-  **Production database (Extract data):**
+  Production database (Extract data):
   Extract an exact copy of the database, with the aim of not overstressing the production server this extraction should be in non-working hours.
   
   Staying database (Transform data)
@@ -39,7 +39,7 @@ Companies want to find the way to access their data from everywhere in a easy an
 </details>
 <details>
 <summary>Web service</summary>
-  **Configure IIS:**
+  Configure IIS:
   Implement Web API (CSharp).
 </details>
 <details>
