@@ -28,9 +28,14 @@ Companies want to find the way to access their data from everywhere in a easy an
 “Pro mujer” app is going to solve the accessibility of the information and this is going to help manager to make decision from their own data. In order to reach this target we need the next steps:
 <details>
 <summary>ETL Process</summary>
-  Production database (Extract data).
-  Staying database (Transform data).
-  Data warehousing (Load data).
+  Production database (Extract data)
+  Extract an exact copy of the database, with the aim of not overstressing the production server this extraction should be in non-working hours.
+  
+  Staying database (Transform data)
+  From the exact copy we proceed to transformation and validation.
+  
+  Data warehousing (Load data)
+  The loading of the data once processed will be stored in a data warehousing that we will use for future queries.
 </details>
 <details>
 <summary>Web service</summary>
