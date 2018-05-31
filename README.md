@@ -25,7 +25,7 @@ Companies want to find the way to access their data from everywhere in a easy an
 
 ## Solution
 
-`**Pro mujer**` app is going to solve the accessibility of the information and this is going to help manager to make decision from their own data. In order to reach this target we need the next steps:
+`Pro mujer` app is going to solve the accessibility of the information and this is going to help manager to make decision from their own data. In order to reach this target we need the next steps:
 <details>
 <summary>ETL Process</summary>
   **Production database (Extract data):**
