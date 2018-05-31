@@ -7,7 +7,7 @@ Pro Mujer was founded in 1990 in El Alto, Bolivia, by two visionary leaders, Lyn
 From a pioneering experiment in micro-lending, Pro Mujer has become one of Latin America’s leading women’s development organizations. Our integrated approach offers access to finance, health and educational services. These are delivered in supportive social spaces that foster community building and equip them with education and tools to take on the challenges they face daily.
 
 <details>
-<summary>## Who we server</summary>
+<summary>Who we server</summary>
 
 ### Every woman has a unique story and background
 Going beyond small loans, we support our entrepreneurial clients on their own transformative journey by creating opportunities, providing education, training and leadership skills to help them grow their businesses.
