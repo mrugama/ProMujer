@@ -29,7 +29,8 @@ Companies want to find the way to access their data from everywhere in a easy an
 1. <details><summary>ETL Process</summary>
 - Production database (Extract data).
 - Staying database (Transform data).
-- Data warehousing (Load data).</details>
+- Data warehousing (Load data).
+</details>
 2. Web service
 - Configure IIS
 - Implement Web API (CSharp)
