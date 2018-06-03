@@ -7,7 +7,7 @@ Pro Mujer was founded in 1990 in El Alto, Bolivia, by two visionary leaders, Lyn
 From a pioneering experiment in micro-lending, Pro Mujer has become one of Latin America’s leading women’s development organizations. Our integrated approach offers access to finance, health and educational services. These are delivered in supportive social spaces that foster community building and equip them with education and tools to take on the challenges they face daily.
 
 <details>
-<summary>Who we server</summary>
+<summary>Who we serve</summary>
 
 ### Every woman has a unique story and background
 Going beyond small loans, we support our entrepreneurial clients on their own transformative journey by creating opportunities, providing education, training and leadership skills to help them grow their businesses.
@@ -15,13 +15,20 @@ Going beyond small loans, we support our entrepreneurial clients on their own tr
 
 ## Problem
 
-Access to data is critical for the success of your business. Easily accessible data enables you to move quickly, focus on the product, and build a data-informed culture where data leads to better decisions and action.
-
-74% of businesses say they wan to be data-driven, but only 29% say they are good at connecting analytics to action. If you can’t quickly and easily get actionable insights from your data, unite your company around that insight, and make product or business decisions from it, then you aren’t data-driven.
+According to Amplitude, “74% of businesses say that they want to be data-driven, but
+only 29% say they are good at connecting analytics to action. If you can’t quickly and
+easily get actionable insights from your data, unite your company around that insight,
+and make product or business decisions from it, then you aren’t data-driven.”
+As a former database administrator for Pro Mujer Nicaragua, I witnessed first-hand the
+importance of making data-driven decisions to meet client needs. Without timely access
+to data, Pro Mujer asesores (client advisors) experience limitations to providing financial
+information and products to clients.
 
 ## The Hypothesis
 
-Companies want to find the way to access their data from everywhere in a easy and safe way. Data become information when you can make decisions from it. 
+Access to data is critical to the success of any business. Easily accessible data enables
+companies to move quickly, focus on their product and build a data-informed culture
+where access leads to better strategies and decisions. 
 
 ## Solution
 
