@@ -45,7 +45,7 @@ database.
 <details>
 <summary>Web Server</summary>
   Configuration of a virtual serve that receives data requests, connects to
-the database, and responds to data requests by sending a json file
+the database, and responds to data requests by sending a JSON file
 </details>
 <details>
 <summary>Router Configuration</summary>
@@ -53,7 +53,7 @@ the database, and responds to data requests by sending a json file
 </details>
 <details>
   <summary>App Development for iPads and iPhones</summary>
-  Makes data requests via an IP public address to obtain json file converting
+  Makes data requests via an IP public address to obtain JSON file converting
 information to a user-friendly interface
   </details>
 
