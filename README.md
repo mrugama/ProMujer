@@ -24,7 +24,7 @@ importance of making data-driven decisions to meet client needs. Without timely 
 to data, Pro Mujer asesores (client advisors) experience limitations to providing financial
 information and products to clients.
 
-## The Hypothesis
+## Hypothesis
 
 Access to data is critical to the success of any business. Easily accessible data enables
 companies to move quickly, focus on their product and build a data-informed culture
@@ -32,29 +32,29 @@ where access leads to better strategies and decisions.
 
 ## Solution
 
-`Pro mujer` app is going to solve the accessibility of the information and this is going to help manager to make decision from their own data. In order to reach this target we need the next steps:
+Combining my previous experience in database administration with my iOS Software
+Engineering skills I have create `Pro Mujer prototype app`, which will give Pro Mujer client
+advisors remote, user-friendly access to client data.
+To develop this prototype, I created a simulated version of Pro Mujer’s technical
+infrastructure by building the following pieces:
 <details>
-<summary>ETL Process</summary>
-  Production database (Extract data):
-  Extract an exact copy of the database, with the aim of not overstressing the production server this extraction should be in non-working hours.
-  
-  Staying database (Transform data)
-  From the exact copy we proceed to transformation and validation.
-  
-  Data warehousing (Load data)
-  The loading of the data once processed will be stored in a data warehousing that we will use for future queries.
+<summary>Database Server</summary>
+  Configuration of a virtual server that simulates Pro Mujer’s production
+database.
 </details>
 <details>
-<summary>Web service</summary>
-  Configure IIS:
-  Implement Web API (CSharp).
+<summary>Web Server</summary>
+  Configuration of a virtual serve that receives data requests, connects to
+the database, and responds to data requests by sending a json file
 </details>
 <details>
-<summary>Network</summary>
-  Configure router (Port forwarding).
+<summary>Router Configuration</summary>
+  Receives internet data requests and forwards to the web server
 </details>
 <details>
-  <summary>App for iPads or iPhones (to display info)</summary>
+  <summary>App Development for iPads and iPhones</summary>
+  Makes data requests via an IP public address to obtain json file converting
+information to a user-friendly interface
   </details>
 
 ## Demo App
